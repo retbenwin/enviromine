@@ -3,6 +3,8 @@ EnviroMine
 This mod is a reborn, since the original mod by Funwayguy was abandoned.
 Original mod repository: https://github.com/EnviroMine/EnviroMine-1.7
 
+# Work in progress, news coming soon
+
 Licence
 =======
 CC BY-NC-SA 4.0  
